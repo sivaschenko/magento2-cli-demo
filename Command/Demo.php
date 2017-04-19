@@ -42,12 +42,12 @@ class Demo extends Command
                 static::ARGUMENT_MEETUP_GROUP_URL,
                 InputArgument::OPTIONAL,
                 'Meetup Group URL',
-                'Magento-Meetup-Ireland'
+                'Magento-Developers-Dublin'
             )->addArgument(
                 static::ARGUMENT_MEETUP_ID,
                 InputArgument::OPTIONAL,
                 'Meetup ID',
-                '238210161'
+                '238921619'
             );
     }
 
